@@ -1,0 +1,15 @@
+.container{
+	width: 100% ;
+	margin: auto;
+	background-color: gray;
+	height: 500px;
+
+}
+.test{
+	width: 100%;
+}
+.col{
+	background-color: red;
+	
+	border: 1px solid #ddd;
+}
